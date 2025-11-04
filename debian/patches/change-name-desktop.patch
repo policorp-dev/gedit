@@ -1,0 +1,13 @@
+Index: gedit/po/pt_BR.po
+===================================================================
+--- gedit.orig/po/pt_BR.po
++++ gedit/po/pt_BR.po
+@@ -46,7 +46,7 @@ msgstr ""
+ 
+ #: data/org.gnome.gedit.desktop.in:3 data/org.gnome.gedit.metainfo.xml.in:7
+ msgid "gedit"
+-msgstr "gedit"
++msgstr "Editor de arquivos"
+ 
+ #: data/org.gnome.gedit.desktop.in:4
+ msgid "Edit text files"
