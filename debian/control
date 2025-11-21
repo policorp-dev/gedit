@@ -28,6 +28,8 @@ Build-Depends: appstream-util <!nocheck>,
 Standards-Version: 4.7.0
 Rules-Requires-Root: no
 Homepage: https://gedit-text-editor.org/
+Vcs-Git: https://github.com/policorp-dev/gedit.git
+
 
 Package: gedit
 Architecture: any
